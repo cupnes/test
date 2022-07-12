@@ -41,5 +41,4 @@ jobs:
           Thank you for your contribution.
         stale-issue-label: "stale"
         stale-pr-label: "stale"
-        close-issue-reason: not_planned
         exempt-draft-pr: true
