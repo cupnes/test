@@ -41,4 +41,6 @@ jobs:
           Thank you for your contribution.
         stale-issue-label: "stale"
         stale-pr-label: "stale"
+        exempt-issue-labels: "keepalive"
+        exempt-pr-labels: "keepalive"
         exempt-draft-pr: true
